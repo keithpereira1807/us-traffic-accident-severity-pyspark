@@ -1,0 +1,9 @@
+Metric,Value
+Total Rows,7728394
+Total Columns,46
+Distinct Accident IDs,7728394
+Minimum Start Time,2016-01-15 01:48:33
+Maximum Start Time,2023-04-01 05:00:00
+Number of States,49
+Number of Cities,13678
+Number of Counties,1871

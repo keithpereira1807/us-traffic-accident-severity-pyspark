@@ -1,0 +1,14 @@
+Infrastructure_Feature,True_Count,False_Count,True_Percentage
+Traffic_Signal,1143772,6584622,14.8
+Crossing,873763,6854631,11.306
+Junction,571342,7157052,7.393
+Stop,214371,7514023,2.774
+Station,201901,7526493,2.612
+Amenity,96334,7632060,1.246
+Railway,66979,7661415,0.867
+Give_Way,36582,7691812,0.473
+No_Exit,19545,7708849,0.253
+Traffic_Calming,7598,7720796,0.098
+Bump,3514,7724880,0.045
+Roundabout,249,7728145,0.003
+Turning_Loop,0,7728394,0.0

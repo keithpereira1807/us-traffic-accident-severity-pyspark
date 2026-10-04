@@ -1,0 +1,4 @@
+Model,Accuracy,Weighted_Precision,Weighted_Recall,Weighted_F1,Macro_F1,Training_Time_s
+Logistic Regression,0.4208,0.7934,0.4208,0.5082,0.293,324.69
+Decision Tree,0.4738,0.8378,0.4738,0.5462,0.3656,940.27
+Random Forest,0.3869,0.8282,0.3869,0.4628,0.2934,1698.93

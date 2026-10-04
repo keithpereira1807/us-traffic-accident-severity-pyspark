@@ -1,0 +1,13 @@
+Model,Severity,Precision,Recall,F1,Support
+Logistic Regression,1,0.0348,0.805,0.0667,13357
+Logistic Regression,2,0.9161,0.3826,0.5398,1231876
+Logistic Regression,3,0.3633,0.5617,0.4413,259571
+Logistic Regression,4,0.0699,0.5508,0.124,40674
+Decision Tree,1,0.1394,0.9357,0.2426,13357
+Decision Tree,2,0.9631,0.405,0.5702,1231876
+Decision Tree,3,0.3986,0.7148,0.5118,259571
+Decision Tree,4,0.0748,0.8685,0.1377,40674
+Random Forest,1,0.0573,0.8873,0.1076,13357
+Random Forest,2,0.9589,0.319,0.4787,1231876
+Random Forest,3,0.3666,0.6101,0.458,259571
+Random Forest,4,0.0699,0.8537,0.1293,40674

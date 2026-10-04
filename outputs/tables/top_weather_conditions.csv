@@ -1,0 +1,16 @@
+Weather_Condition,Count,Percentage_of_Total
+Fair,2560802,33.13
+Mostly Cloudy,1016195,13.15
+Cloudy,817082,10.57
+Clear,808743,10.46
+Partly Cloudy,698972,9.04
+Overcast,382866,4.95
+Light Rain,352957,4.57
+Scattered Clouds,204829,2.65
+Light Snow,128680,1.67
+Fog,99238,1.28
+Rain,84331,1.09
+Haze,76223,0.99
+Fair / Windy,35671,0.46
+Heavy Rain,32309,0.42
+Light Drizzle,22684,0.29

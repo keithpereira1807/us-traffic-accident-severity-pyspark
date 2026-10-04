@@ -1,0 +1,7 @@
+# Dependencies required for Streamlit Web Dashboard deployment
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.26.0
+pyarrow>=14.0.0
+matplotlib>=3.8.0
+

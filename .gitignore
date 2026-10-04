@@ -1,0 +1,47 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache / bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local Cursor agent instructions (do not commit)
+CURSOR.md
+
+# Scratch directory
+scratch/
+
+# Raw / large datasets (NEVER upload to GitHub - 2.85 GB raw CSV & ~726 MB Parquet)
+US_Accidents_March23.csv
+data/
+*.orc
+*.avro
+
+# Spark / Hadoop local artifacts & checksums
+*.crc
+._SUCCESS*
+_SUCCESS
+metastore_db/
+derby.log
+spark-warehouse/
+.spark-staging*/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment / secrets
+.env
+.env.*
