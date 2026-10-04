@@ -21,7 +21,7 @@ scratch/
 
 # Raw / large datasets (NEVER upload to GitHub - 2.85 GB raw CSV & ~726 MB Parquet)
 US_Accidents_March23.csv
-data/
+/data/
 *.orc
 *.avro
 
