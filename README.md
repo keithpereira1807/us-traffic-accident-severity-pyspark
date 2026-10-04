@@ -1,5 +1,6 @@
 # US Traffic Accident Severity Analytics Using PySpark
 ## Big Data Analytics — Comprehensive Academic Project Report
+**Live Dashboard:** https://us-traffic-accident-severity.streamlit.app/
 
 [![Python Version](https://img.shields.io/badge/Python-3.13.2-blue.svg)](https://www.python.org/)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-4.2.0-orange.svg)](https://spark.apache.org/)
